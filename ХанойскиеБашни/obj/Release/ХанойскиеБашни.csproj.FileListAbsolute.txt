@@ -1,0 +1,9 @@
+C:\Users\hasan\Desktop\Git\ХанойскиеБашни\ХанойскиеБашни\bin\Release\ХанойскиеБашни.exe.config
+C:\Users\hasan\Desktop\Git\ХанойскиеБашни\ХанойскиеБашни\bin\Release\ХанойскиеБашни.exe
+C:\Users\hasan\Desktop\Git\ХанойскиеБашни\ХанойскиеБашни\bin\Release\ХанойскиеБашни.pdb
+C:\Users\hasan\Desktop\Git\ХанойскиеБашни\ХанойскиеБашни\obj\Release\ХанойскиеБашни.Ханойские_башни.resources
+C:\Users\hasan\Desktop\Git\ХанойскиеБашни\ХанойскиеБашни\obj\Release\ХанойскиеБашни.Properties.Resources.resources
+C:\Users\hasan\Desktop\Git\ХанойскиеБашни\ХанойскиеБашни\obj\Release\ХанойскиеБашни.csproj.GenerateResource.cache
+C:\Users\hasan\Desktop\Git\ХанойскиеБашни\ХанойскиеБашни\obj\Release\ХанойскиеБашни.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\Git\ХанойскиеБашни\ХанойскиеБашни\obj\Release\ХанойскиеБашни.exe
+C:\Users\hasan\Desktop\Git\ХанойскиеБашни\ХанойскиеБашни\obj\Release\ХанойскиеБашни.pdb
